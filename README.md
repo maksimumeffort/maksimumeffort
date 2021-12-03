@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello world 👋
+
+#### Alex here
+#### I'm a full stack developer specialising in Ruby on Rails framework
+
+##### I'm currently doing the 100 Days of Code challenge in Python
+#####   (I will be committing every day for the next 100 days!)
 
 <!--
 **maksimumeffort/maksimumeffort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
