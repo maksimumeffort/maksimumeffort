@@ -1,10 +1,12 @@
 ### Hello world 👋
 
 #### Alex here
-#### I'm a full stack developer specialising in Ruby on Rails framework
+#### I'm a full stack developer with experience in Ruby, Java, React and Flutter
 
-##### I'm currently doing the 100 Days of Code challenge in Python
-#####   (I will be committing every day for the next 100 days!)
+####   My aim is to create human-centered solutions that make a difference
+
+##### I'm currently building projects in React and Java to become more confident writing clean code
+#####  My focus right now is on building reliable and robust end-to-end test suites
 
 <!--
 **maksimumeffort/maksimumeffort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
