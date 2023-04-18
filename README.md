@@ -1,7 +1,7 @@
 ### Hello world 👋
 
 #### Alex here
-#### I'm a full stack developer with experience in Ruby, Java, React and Flutter
+#### I'm a full stack developer with experience in Ruby, Python, Java, React and Flutter
 
 ####   My aim is to create human-centered solutions that make a difference
 
